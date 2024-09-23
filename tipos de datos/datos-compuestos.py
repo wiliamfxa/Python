@@ -28,6 +28,6 @@ diccionario = {
 }
 
 print(diccionario['altura'])
-
+print("hola crack")
 
 
